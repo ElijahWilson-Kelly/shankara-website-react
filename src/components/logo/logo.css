@@ -1,0 +1,9 @@
+.main-logo {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.main-logo img {
+  width: 200px;
+}

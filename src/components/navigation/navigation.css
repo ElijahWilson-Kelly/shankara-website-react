@@ -1,0 +1,32 @@
+
+nav {
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	margin-top: 30px;
+	padding: 5px 0 15px 0;
+	border-top: 1px solid #DBBD5A;
+	border-bottom: 1px solid #DBBD5A;
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-around;
+}
+
+nav li {
+	margin: 0;
+	font-size: 1.3rem;
+	display:inline-block;
+	width: 150px;
+}
+
+nav li:hover {
+	color: #DBBD5A;
+	text-shadow: -4px -4px 8px #DBBD5A;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
