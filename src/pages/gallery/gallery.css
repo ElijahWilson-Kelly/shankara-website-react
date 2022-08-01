@@ -1,12 +1,13 @@
 #gallery-display {
 	border: 5px solid #FFF;
   background-color: #000;
-	padding: 0px;
-	width: 1000px;
+	padding: 60px 120px;
+	width: 800px;
 	height: 600px;
 	margin: 0 auto;
 	display: grid;
 	grid-template: 1fr / 15px 60px auto 60px 15px;
+	box-shadow: 2px 2px 20px 1px inset white;
 }
 
 .gallery-navigation {
